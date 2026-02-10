@@ -1,0 +1,20 @@
+{
+  "node": {
+    "60ae3af215bb38f7b932e99f5a062c397c78f8f9b8": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "[project]/Desktop/projet_soa/code/.next-internal/server/app/login/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/projet_soa/code/actions/auth.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "signIn",
+          "filename": "Desktop/projet_soa/code/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      },
+      "exportedName": "signIn",
+      "filename": "Desktop/projet_soa/code/actions/auth.ts"
+    }
+  },
+  "edge": {}
+}

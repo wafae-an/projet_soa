@@ -1,0 +1,35 @@
+{
+  "node": {
+    "00d967bb37513a43f0411f5d1a74200c19d7e59422": {
+      "workers": {
+        "app/passager/page": {
+          "moduleId": "[project]/Desktop/projet_soa/code/.next-internal/server/app/passager/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/projet_soa/code/actions/villeActions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/projet_soa/code/actions/ligneActions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getVilles",
+          "filename": "Desktop/projet_soa/code/actions/villeActions.ts"
+        }
+      },
+      "layer": {
+        "app/passager/page": "action-browser"
+      },
+      "exportedName": "getVilles",
+      "filename": "Desktop/projet_soa/code/actions/villeActions.ts"
+    },
+    "400ae79ad92bed6deebbb5c9d82c34354678a8a655": {
+      "workers": {
+        "app/passager/page": {
+          "moduleId": "[project]/Desktop/projet_soa/code/.next-internal/server/app/passager/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/projet_soa/code/actions/villeActions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/projet_soa/code/actions/ligneActions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getLignesAvecArrets",
+          "filename": "Desktop/projet_soa/code/actions/ligneActions.ts"
+        }
+      },
+      "layer": {
+        "app/passager/page": "action-browser"
+      },
+      "exportedName": "getLignesAvecArrets",
+      "filename": "Desktop/projet_soa/code/actions/ligneActions.ts"
+    }
+  },
+  "edge": {}
+}

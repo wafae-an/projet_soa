@@ -1,0 +1,20 @@
+{
+  "node": {
+    "40f3dcc0aaee20e2d661bdbab71ff52f71e2c175ba": {
+      "workers": {
+        "app/passager/trajets/paiement/page": {
+          "moduleId": "[project]/Desktop/projet_soa/code/.next-internal/server/app/passager/trajets/paiement/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/projet_soa/code/actions/ticketActions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "purchaseTicketWithTransaction",
+          "filename": "Desktop/projet_soa/code/actions/ticketActions.ts"
+        }
+      },
+      "layer": {
+        "app/passager/trajets/paiement/page": "action-browser"
+      },
+      "exportedName": "purchaseTicketWithTransaction",
+      "filename": "Desktop/projet_soa/code/actions/ticketActions.ts"
+    }
+  },
+  "edge": {}
+}

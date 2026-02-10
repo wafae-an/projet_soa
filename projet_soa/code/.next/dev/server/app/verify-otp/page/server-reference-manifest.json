@@ -1,0 +1,35 @@
+{
+  "node": {
+    "603bcb3521dd0c3da4ea7ea032362a809bd6b234f8": {
+      "workers": {
+        "app/verify-otp/page": {
+          "moduleId": "[project]/Desktop/projet_soa/code/.next-internal/server/app/verify-otp/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/projet_soa/code/actions/verifyEmailCode.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/projet_soa/code/actions/resend_otp.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "verifyEmailCode",
+          "filename": "Desktop/projet_soa/code/actions/verifyEmailCode.ts"
+        }
+      },
+      "layer": {
+        "app/verify-otp/page": "action-browser"
+      },
+      "exportedName": "verifyEmailCode",
+      "filename": "Desktop/projet_soa/code/actions/verifyEmailCode.ts"
+    },
+    "409d6c119e710897b86e54372e3691cf082fabd8ee": {
+      "workers": {
+        "app/verify-otp/page": {
+          "moduleId": "[project]/Desktop/projet_soa/code/.next-internal/server/app/verify-otp/page/actions.js { ACTIONS_MODULE0 => \"[project]/Desktop/projet_soa/code/actions/verifyEmailCode.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Desktop/projet_soa/code/actions/resend_otp.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "resendEmailCode",
+          "filename": "Desktop/projet_soa/code/actions/resend_otp.ts"
+        }
+      },
+      "layer": {
+        "app/verify-otp/page": "action-browser"
+      },
+      "exportedName": "resendEmailCode",
+      "filename": "Desktop/projet_soa/code/actions/resend_otp.ts"
+    }
+  },
+  "edge": {}
+}

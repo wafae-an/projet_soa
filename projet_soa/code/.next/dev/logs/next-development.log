@@ -1,0 +1,31 @@
+[00:00:18.390] Server  LOG      ✓ Ready in 14.9s
+[00:00:29.455] Server  LOG      ○ Compiling /login ...
+[00:01:01.770] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:02.920] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:02.920] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/login","route":"/login"}
+[00:01:02.920] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1766138659769}
+[00:15:13.937] Server  LOG      ○ Compiling /verify-otp ...
+[00:15:16.286] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:16.816] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:15:16.817] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/verify-otp","route":"/verify-otp"}
+[00:15:16.817] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/verify-otp?email=wafaeananouch2003%40gmail.com color: rgb(120, 120, 120) color: inherit {"dp":"/verify-otp","o":"http://localhost:3000/verify-otp?email=wafaeananouch2003%40gmail.com","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1766139513893}
+[00:17:19.041] Browser ERROR   An async function with useActionState was called outside of a transition. This is likely not what you intended (for example, isPending will not update correctly). Either call the returned function inside startTransition, or pass it to an `action` or `formAction` prop.
+[00:17:22.752] Server  LOG      ○ Compiling /admin ...
+[00:17:30.178] Browser ERROR   An async function with useActionState was called outside of a transition. This is likely not what you intended (for example, isPending will not update correctly). Either call the returned function inside startTransition, or pass it to an `action` or `formAction` prop.
+[00:17:36.696] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:38.586] Server  LOG     Tentative de récupération des lignes pour: AGADIR
+[00:17:38.669] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:17:38.669] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/admin","route":"/admin"}
+[00:17:38.670] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin color: rgb(120, 120, 120) color: inherit {"dp":"/admin","o":"http://localhost:3000/admin","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1766139655754}
+[00:17:38.741] Server  LOG     Status de la réponse: 200
+[00:17:38.743] Server  LOG     Données reçues: 7 lignes pour Agadir
+[00:17:45.125] Server  LOG     Tentative de récupération des lignes pour: AGADIR
+[00:17:45.282] Server  LOG     Status de la réponse: 200
+[00:17:45.383] Server  LOG     Données reçues: 7 lignes pour Agadir
+[00:17:46.138] Server  LOG     Tentative de récupération des lignes pour: AGADIR
+[00:17:46.593] Server  LOG     Status de la réponse: 200
+[00:17:46.595] Server  LOG     Données reçues: 7 lignes pour Agadir
+[00:18:49.421] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:49.751] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:18:49.751] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/login","route":"/login"}
+[00:18:49.751] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1766139726830}
